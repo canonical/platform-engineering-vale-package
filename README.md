@@ -12,10 +12,10 @@ To get started, add the package to your configuration file (as shown below) and 
 StylesPath = .vale/styles # Use your normal style path here.
 Packages = https://github.com/canonical/platform-engineering-vale-package/releases/download/latest/pfe-vale.zip
 
-Vocab = Canonical, PFE, local
+Vocab = PFE, local
 
 [*]
-BasedOnStyles = Canonical, PFE
+BasedOnStyles = PFE
 ```
 
 See [Vale's documentation on packages](https://vale.sh/docs/topics/packages/) for more information.
