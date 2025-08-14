@@ -10,7 +10,7 @@ To get started, add the package to your configuration file (as shown below) and 
 
 ```ini
 StylesPath = .vale/styles # Use your normal style path here.
-Packages = https:///canonical/platform-engineering-vale-package/releases/download/latest/pfe-vale.zip
+Packages = https://github.com/canonical/platform-engineering-vale-package/releases/download/latest/pfe-vale.zip
 
 Vocab = local
 
